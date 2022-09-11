@@ -54,4 +54,4 @@ The purpose of this analysis was to create a binary classifier that would be cap
     ![attempt3.png](https://github.com/daniel-sh-au/UofT_DataBC_Module19_Neural_Network_Charity_Analysis/blob/main/Resources/attempt3.png)
 
 ## Summary
-In conclusion, the deep learning model is moderately accurate but should still be optimized to achieve the accuracy goal of 75%. 
+In conclusion, the deep learning model is moderately accurate but should still be optimized to achieve the accuracy goal of 75%. This could be completed by selecting another model. The Random Forest model could be applied to the dataset and compared to the neural network to improve the accuracy. Random Forest can easily handle outliers and non-linear data and would confirm if this analysis was subjected to overfitting. This ultimately makes the Random Forest model an appropriate next step for this analysis. 
